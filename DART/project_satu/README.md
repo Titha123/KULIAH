@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+#Kuliah
+
+Nama: Destitha Almaqvira Bachmid
+NPM: 07352211024
+
+Program ini akan menghitung gaji karyawan
+
+Instruksi cara menjalankan program
+
+cara mengjalankan program bisa lewat terminal
